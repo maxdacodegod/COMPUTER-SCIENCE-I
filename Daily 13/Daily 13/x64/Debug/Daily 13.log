@@ -1,0 +1,9 @@
+﻿  Daily 13.c
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(46,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(116,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(141,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(144,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(36): warning C4715: 'getChoicePlayer1': not all control paths return a value
+C:\COMP010\Daily 13\Daily 13\Daily 13.c(65): warning C4715: 'getChoicePlayer2': not all control paths return a value
+  Daily 13.vcxproj -> C:\COMP010\Daily 13\x64\Debug\Daily 13.exe

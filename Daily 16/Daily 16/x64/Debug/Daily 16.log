@@ -1,0 +1,22 @@
+﻿  daily16.c
+C:\COMP010\Daily 16\Daily 16\daily16.c(118,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(129,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(167,11): warning C4098: 'convert_lengths': 'void' function returning a value
+C:\COMP010\Daily 16\Daily 16\daily16.c(152,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(194,11): warning C4098: 'convert_weights': 'void' function returning a value
+C:\COMP010\Daily 16\Daily 16\daily16.c(179,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(201,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(204,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(245,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(248,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(255,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\COMP010\Daily 16\Daily 16\daily16.c(279,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(282,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(288,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\COMP010\Daily 16\Daily 16\daily16.c(313,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(316,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(322,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\COMP010\Daily 16\Daily 16\daily16.c(346,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(349,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 16\Daily 16\daily16.c(355,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Daily 16.vcxproj -> C:\COMP010\Daily 16\x64\Debug\Daily 16.exe
