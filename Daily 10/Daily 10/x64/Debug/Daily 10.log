@@ -1,0 +1,7 @@
+﻿  Daily10.c
+C:\COMP010\Daily 10\Daily 10\Daily10.c(22,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 10\Daily 10\Daily10.c(26,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 10\Daily 10\Daily10.c(38,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 10\Daily 10\Daily10.c(41,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 10\Daily 10\Daily10.c(43): warning C4716: 'clear_keyboard_buffer': must return a value
+  Daily 10.vcxproj -> C:\COMP010\Daily 10\x64\Debug\Daily 10.exe

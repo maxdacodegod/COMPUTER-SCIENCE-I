@@ -1,0 +1,8 @@
+﻿  Daily11.c
+C:\COMP010\Daily 11\Daily 11\Daily11.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 11\Daily 11\Daily11.c(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 11\Daily 11\Daily11.c(43,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 11\Daily 11\Daily11.c(46,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 11\Daily 11\Daily11.c(48): warning C4716: 'clear_keyboard_buffer': must return a value
+C:\COMP010\Daily 11\Daily 11\Daily11.c(39): warning C4716: 'draw_line': must return a value
+  Daily 11.vcxproj -> C:\COMP010\Daily 11\x64\Debug\Daily 11.exe
