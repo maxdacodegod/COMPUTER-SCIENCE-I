@@ -1,0 +1,4 @@
+﻿  D17.c
+C:\COMP010\Daily 17\Daily 17\D17.c(21,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\COMP010\Daily 17\Daily 17\D17.c(22,6): warning C4101: 'i': unreferenced local variable
+  Daily 17.vcxproj -> C:\COMP010\Daily 17\Debug\Daily 17.exe

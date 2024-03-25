@@ -1,0 +1,9 @@
+﻿  D17.c
+C:\COMP010\Daily 17\Daily 17\D17.c(49,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 17\Daily 17\D17.c(50,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 17\Daily 17\D17.c(51,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 17\Daily 17\D17.c(73,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 17\Daily 17\D17.c(74,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 17\Daily 17\D17.c(82,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily 17\Daily 17\D17.c(89,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Daily 17.vcxproj -> C:\COMP010\Daily 17\x64\Debug\Daily 17.exe
