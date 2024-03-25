@@ -1,0 +1,4 @@
+Name: Alice Age: 30 Occupation: Teacher
+Employee ID: 98765 Salary: 60000
+Project Status: Completed tasks - 20, In-progress tasks - 8, Pending tasks - 5
+Meeting Schedule: Monday 9:00 AM, Wednesday 3:15 PM, Friday 2:30 PM
