@@ -1,0 +1,5 @@
+﻿  d14.c
+C:\COMP010\Daily14\Daily14\d14.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily14\Daily14\d14.c(91,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Daily14\Daily14\d14.c(94,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Daily14.vcxproj -> C:\COMP010\Daily14\x64\Debug\Daily14.exe
