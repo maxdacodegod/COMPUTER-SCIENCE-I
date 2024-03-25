@@ -1,0 +1,4 @@
+﻿  program3.c
+C:\COMP010\Program 3\Program 3\program3.c(179,2): warning C4133: 'return': incompatible types - from 'int *' to 'char *'
+C:\COMP010\Program 3\Program 3\program3.c(168,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Program 3.vcxproj -> C:\COMP010\Program 3\x64\Debug\Program 3.exe

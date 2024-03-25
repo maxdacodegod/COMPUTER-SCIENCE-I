@@ -1,0 +1,6 @@
+﻿  program1.c
+C:\COMP010\Program 1\Program 1\program1.c(170,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\COMP010\Program 1\Program 1\program1.c(174,50): warning C4020: 'generate_report': too many actual parameters
+C:\COMP010\Program 1\Program 1\program1.c(175,49): warning C4020: 'generate_report': too many actual parameters
+C:\COMP010\Program 1\Program 1\program1.c(181,1): warning C4029: declared formal parameter list different from definition
+  Program 1.vcxproj -> C:\COMP010\Program 1\x64\Debug\Program 1.exe
