@@ -1,0 +1,35 @@
+﻿  CSTRINGS.c
+  files.c
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\files.c(15,26): warning C4047: '!=': 'FILE *' differs in levels of indirection from 'int'
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\files.c(17,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FinalExamPrep.c
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(55,6): error C2061: syntax error: identifier 'NAME'
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(55,6): error C2059: syntax error: ';'
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(59,1): error C2059: syntax error: 'switch'
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(89,7): error C2040: 'x': 'char *' differs in levels of indirection from 'int'
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(120,5): error C2084: function 'int main(int,char **)' already has a body
+  C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(71,5):
+  see previous definition of 'main'
+  
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(126,13): error C2086: 'Coordinate point': redefinition
+  C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(123,13):
+  see declaration of 'point'
+  
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\FinalExamPrep.c(153,23): error C2065: 'SPADES': undeclared identifier
+  HARDPROBLEM.c
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\HARDPROBLEM.c(13,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MALLOC.c
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\MALLOC.c(27,9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\MALLOC.c(18,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  STRUCTS.c
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\STRUCTS.c(23,2): warning C4013: 'displayDate' undefined; assuming extern returning int
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\STRUCTS.c(27,6): error C2371: 'displayDate': redefinition; different basic types
+  Generating Code...
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\CSTRINGS.c(27): error C4700: uninitialized local variable 'start' used
+C:\COMP010\FINAL EXAM PREP\FINAL EXAM PREP\CSTRINGS.c(27): error C4700: uninitialized local variable 'end' used

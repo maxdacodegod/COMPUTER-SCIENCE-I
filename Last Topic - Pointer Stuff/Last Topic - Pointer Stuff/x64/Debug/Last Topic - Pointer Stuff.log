@@ -1,0 +1,3 @@
+﻿  date.c
+pointerstuff.obj : error LNK2019: unresolved external symbol date_output referenced in function main
+C:\COMP010\Last Topic - Pointer Stuff\x64\Debug\Last Topic - Pointer Stuff.exe : fatal error LNK1120: 1 unresolved externals

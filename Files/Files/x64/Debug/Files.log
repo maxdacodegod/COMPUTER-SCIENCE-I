@@ -1,0 +1,9 @@
+﻿  files.c
+C:\COMP010\Files\Files\files.c(22,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP010\Files\Files\files.c(14,6): warning C4101: 'noc': unreferenced local variable
+C:\COMP010\Files\Files\files.c(13,6): warning C4101: 'number': unreferenced local variable
+C:\COMP010\Files\Files\files.c(16,6): warning C4101: 'c': unreferenced local variable
+C:\COMP010\Files\Files\files.c(68,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\COMP010\Files\Files\files.c(68,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'int'
+C:\COMP010\Files\Files\files.c(82,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Files.vcxproj -> C:\COMP010\Files\x64\Debug\Files.exe
